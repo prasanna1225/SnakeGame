@@ -1,2 +1,2 @@
 # SnakeGame
-I Developed The snake game using HTML, CSS, JavaScript.
+I Developed the snake game using HTML, CSS, JavaScript.
